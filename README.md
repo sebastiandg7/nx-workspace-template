@@ -1,4 +1,3 @@
-
 <div style="text-align: center;">
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sebastiandg7/playground/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sebastiandg7/playground/tree/main)
@@ -86,8 +85,6 @@ Run `nx graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
 
 ## ☁ Nx Cloud
 
