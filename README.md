@@ -1,6 +1,14 @@
 
+<div style="text-align: center;">
 
-# Sebastiandg7
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/sebastiandg7/playground/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sebastiandg7/playground/tree/main)
+[![ci](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml)
+
+</div>
+
+<hr>
+
+# Sebastiandg7's Playground
 
 This project was generated using [Nx](https://nx.dev).
 
