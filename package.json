@@ -1,20 +1,27 @@
 {
-  "name": "sebastiandg7",
+  "name": "sebastiandg7-playground",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
-    "test": "nx test"
+    "test": "nx test",
+    "commit": "git-cz"
   },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "14.4.2",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "14.4.2",
+    "commitizen": "^4.2.4",
+    "cz-customizable": "^6.9.0",
     "nx": "14.4.2",
     "prettier": "^2.6.2",
     "typescript": "~4.7.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    }
   }
 }
