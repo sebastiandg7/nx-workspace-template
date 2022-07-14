@@ -2,6 +2,7 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/sebastiandg7/playground/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sebastiandg7/playground/tree/main)
 [![ci](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 </div>
 
