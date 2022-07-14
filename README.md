@@ -1,14 +1,14 @@
 <div style="text-align: center;">
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/sebastiandg7/playground/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sebastiandg7/playground/tree/main)
-[![ci](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastiandg7/playground/actions/workflows/ci.yml)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/sebastiandg7/nx-workspace-template/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/sebastiandg7/nx-workspace-template/tree/main)
+[![ci](https://github.com/sebastiandg7/nx-workspace-template/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastiandg7/nx-workspace-template/actions/workflows/ci.yml)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 </div>
 
 <hr>
 
-# Sebastiandg7's Playground
+# Nx.dev workspace template
 
 This project was generated using [Nx](https://nx.dev).
 
